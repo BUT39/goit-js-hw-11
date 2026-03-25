@@ -1,5 +1,5 @@
 import iziToast from "izitoast";
-import { getImagesByQuery } from "./js/pixabay-ap";
+import { getImagesByQuery } from "./js/pixabay-api";
 import { createGallery, hideLoader, showLoader, clearGallery} from "./js/render-functions";
 
 
